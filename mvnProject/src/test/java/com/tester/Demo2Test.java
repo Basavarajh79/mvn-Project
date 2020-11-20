@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Demo2Test 
 {
 	@Test
-	public void test3()kefnlknfqnf
+	public void test3()
 	{
 		System.out.println("executing test3");
 	}
